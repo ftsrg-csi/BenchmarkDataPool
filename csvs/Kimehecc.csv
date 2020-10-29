@@ -1,5 +1,4 @@
-QUEUE,Tokenize1,Pride1_Sense1,43410394225291,Kimehecc,Pride1_Sense1
-QUEUE,Tokenize2,Pride1_Sense1,43410394509884,Kimehecc,Pride1_Sense1
+type,name,input_id,time,team,meas_id
 QUEUE,Tokenize2,Pride1_Sense1,43410395234723,Kimehecc,Pride1_Sense1
 START,Tokenize2,Pride1_Sense1,43410395488102,Kimehecc,Pride1_Sense1
 QUEUE,Tokenize1,Pride1_Sense1,43410401843228,Kimehecc,Pride1_Sense1
