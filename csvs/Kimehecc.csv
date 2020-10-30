@@ -1,5 +1,3 @@
-QUEUE,Tokenize1,Pride1_Sense1,43410394225291,Kimehecc,Pride1_Sense1
-QUEUE,Tokenize2,Pride1_Sense1,43410394509884,Kimehecc,Pride1_Sense1
 QUEUE,Tokenize2,Pride1_Sense1,43410395234723,Kimehecc,Pride1_Sense1
 START,Tokenize2,Pride1_Sense1,43410395488102,Kimehecc,Pride1_Sense1
 QUEUE,Tokenize1,Pride1_Sense1,43410401843228,Kimehecc,Pride1_Sense1
@@ -10,8 +8,6 @@ START,Collect2,Pride1_Sense1,43410408795400,Kimehecc,Pride1_Sense1
 STOP,Tokenize1,Pride1_Sense1,43410410162615,Kimehecc,Pride1_Sense1
 QUEUE,Collect1,Pride1_Sense1,43410412497124,Kimehecc,Pride1_Sense1
 START,Collect1,Pride1_Sense1,43410412654737,Kimehecc,Pride1_Sense1
-QUEUE,Tokenize1,Pride1_Sense2,43410413869319,Kimehecc,Pride1_Sense2
-QUEUE,Tokenize2,Pride1_Sense2,43410413900431,Kimehecc,Pride1_Sense2
 QUEUE,Tokenize1,Pride1_Sense2,43410414014094,Kimehecc,Pride1_Sense2
 QUEUE,Tokenize2,Pride1_Sense2,43410414043361,Kimehecc,Pride1_Sense2
 START,Tokenize2,Pride1_Sense2,43410414089451,Kimehecc,Pride1_Sense2
@@ -22,8 +18,6 @@ START,Collect1,Pride1_Sense2,43410418696066,Kimehecc,Pride1_Sense2
 STOP,Tokenize2,Pride1_Sense2,43410429185414,Kimehecc,Pride1_Sense2
 QUEUE,Collect2,Pride1_Sense2,43410439281347,Kimehecc,Pride1_Sense2
 START,Collect2,Pride1_Sense2,43410439397714,Kimehecc,Pride1_Sense2
-QUEUE,Tokenize1,Pride1_Sense3,43410521411130,Kimehecc,Pride1_Sense3
-QUEUE,Tokenize2,Pride1_Sense3,43410521921333,Kimehecc,Pride1_Sense3
 QUEUE,Tokenize1,Pride1_Sense3,43410522114465,Kimehecc,Pride1_Sense3
 START,Tokenize1,Pride1_Sense3,43410522174682,Kimehecc,Pride1_Sense3
 QUEUE,Tokenize2,Pride1_Sense3,43410522141897,Kimehecc,Pride1_Sense3
@@ -34,8 +28,6 @@ START,Collect1,Pride1_Sense3,43410525956528,Kimehecc,Pride1_Sense3
 STOP,Tokenize2,Pride1_Sense3,43410546553276,Kimehecc,Pride1_Sense3
 QUEUE,Collect2,Pride1_Sense3,43410559902818,Kimehecc,Pride1_Sense3
 START,Collect2,Pride1_Sense3,43410559979323,Kimehecc,Pride1_Sense3
-QUEUE,Tokenize1,Pride1_Sense4,43410611301012,Kimehecc,Pride1_Sense4
-QUEUE,Tokenize2,Pride1_Sense4,43410611568476,Kimehecc,Pride1_Sense4
 QUEUE,Tokenize1,Pride1_Sense4,43410611735305,Kimehecc,Pride1_Sense4
 START,Tokenize1,Pride1_Sense4,43410611800239,Kimehecc,Pride1_Sense4
 STOP,Tokenize1,Pride1_Sense4,43410613631102,Kimehecc,Pride1_Sense4
@@ -46,8 +38,6 @@ START,Tokenize2,Pride1_Sense4,43410624430650,Kimehecc,Pride1_Sense4
 STOP,Tokenize2,Pride1_Sense4,43410673883836,Kimehecc,Pride1_Sense4
 QUEUE,Collect2,Pride1_Sense4,43410686278671,Kimehecc,Pride1_Sense4
 START,Collect2,Pride1_Sense4,43410686359106,Kimehecc,Pride1_Sense4
-QUEUE,Tokenize1,Pride1_Sense5,43410711030694,Kimehecc,Pride1_Sense5
-QUEUE,Tokenize2,Pride1_Sense5,43410711461354,Kimehecc,Pride1_Sense5
 QUEUE,Tokenize1,Pride1_Sense5,43410719142778,Kimehecc,Pride1_Sense5
 START,Tokenize1,Pride1_Sense5,43410719204454,Kimehecc,Pride1_Sense5
 STOP,Tokenize1,Pride1_Sense5,43410720636971,Kimehecc,Pride1_Sense5
@@ -58,8 +48,6 @@ START,Collect1,Pride1_Sense5,43410734021102,Kimehecc,Pride1_Sense5
 STOP,Tokenize2,Pride1_Sense5,43410824066257,Kimehecc,Pride1_Sense5
 QUEUE,Collect2,Pride1_Sense5,43410835601733,Kimehecc,Pride1_Sense5
 START,Collect2,Pride1_Sense5,43410835668365,Kimehecc,Pride1_Sense5
-QUEUE,Tokenize1,Pride1_Sense6,43410883710419,Kimehecc,Pride1_Sense6
-QUEUE,Tokenize2,Pride1_Sense6,43410883767860,Kimehecc,Pride1_Sense6
 QUEUE,Tokenize1,Pride1_Sense6,43410894017603,Kimehecc,Pride1_Sense6
 START,Tokenize1,Pride1_Sense6,43410894066497,Kimehecc,Pride1_Sense6
 STOP,Tokenize1,Pride1_Sense6,43410895355465,Kimehecc,Pride1_Sense6
@@ -70,8 +58,6 @@ START,Collect1,Pride1_Sense6,43410919465529,Kimehecc,Pride1_Sense6
 STOP,Tokenize2,Pride1_Sense6,43411086105276,Kimehecc,Pride1_Sense6
 QUEUE,Collect2,Pride1_Sense6,43411096268694,Kimehecc,Pride1_Sense6
 START,Collect2,Pride1_Sense6,43411096315761,Kimehecc,Pride1_Sense6
-QUEUE,Tokenize1,Pride2_Sense1,43411116757913,Kimehecc,Pride2_Sense1
-QUEUE,Tokenize2,Pride2_Sense1,43411116826626,Kimehecc,Pride2_Sense1
 QUEUE,Tokenize1,Pride2_Sense1,43411116999443,Kimehecc,Pride2_Sense1
 QUEUE,Tokenize2,Pride2_Sense1,43411117024541,Kimehecc,Pride2_Sense1
 START,Tokenize1,Pride2_Sense1,43411117030548,Kimehecc,Pride2_Sense1
@@ -82,8 +68,6 @@ START,Collect1,Pride2_Sense1,43411136165598,Kimehecc,Pride2_Sense1
 STOP,Tokenize2,Pride2_Sense1,43411138108883,Kimehecc,Pride2_Sense1
 QUEUE,Collect2,Pride2_Sense1,43411238511737,Kimehecc,Pride2_Sense1
 START,Collect2,Pride2_Sense1,43411238583481,Kimehecc,Pride2_Sense1
-QUEUE,Tokenize1,Pride2_Sense2,43411634277048,Kimehecc,Pride2_Sense2
-QUEUE,Tokenize2,Pride2_Sense2,43411634371769,Kimehecc,Pride2_Sense2
 QUEUE,Tokenize2,Pride2_Sense2,43411634663261,Kimehecc,Pride2_Sense2
 START,Tokenize2,Pride2_Sense2,43411634698857,Kimehecc,Pride2_Sense2
 STOP,Tokenize2,Pride2_Sense2,43411635536421,Kimehecc,Pride2_Sense2
@@ -94,8 +78,6 @@ START,Tokenize1,Pride2_Sense2,43411644805360,Kimehecc,Pride2_Sense2
 STOP,Tokenize1,Pride2_Sense2,43411645812562,Kimehecc,Pride2_Sense2
 QUEUE,Collect1,Pride2_Sense2,43411646306631,Kimehecc,Pride2_Sense2
 START,Collect1,Pride2_Sense2,43411646363236,Kimehecc,Pride2_Sense2
-QUEUE,Tokenize1,Pride2_Sense3,43411880983279,Kimehecc,Pride2_Sense3
-QUEUE,Tokenize2,Pride2_Sense3,43411881031418,Kimehecc,Pride2_Sense3
 QUEUE,Tokenize1,Pride2_Sense3,43411881249709,Kimehecc,Pride2_Sense3
 START,Tokenize1,Pride2_Sense3,43411881270955,Kimehecc,Pride2_Sense3
 STOP,Tokenize1,Pride2_Sense3,43411882289002,Kimehecc,Pride2_Sense3
@@ -106,8 +88,6 @@ START,Collect1,Pride2_Sense3,43411882384284,Kimehecc,Pride2_Sense3
 STOP,Tokenize2,Pride2_Sense3,43411883857063,Kimehecc,Pride2_Sense3
 QUEUE,Collect2,Pride2_Sense3,43411883970368,Kimehecc,Pride2_Sense3
 START,Collect2,Pride2_Sense3,43411883987958,Kimehecc,Pride2_Sense3
-QUEUE,Tokenize1,Pride2_Sense4,43412041098463,Kimehecc,Pride2_Sense4
-QUEUE,Tokenize2,Pride2_Sense4,43412041181916,Kimehecc,Pride2_Sense4
 QUEUE,Tokenize1,Pride2_Sense4,43412041384948,Kimehecc,Pride2_Sense4
 START,Tokenize1,Pride2_Sense4,43412041412036,Kimehecc,Pride2_Sense4
 STOP,Tokenize1,Pride2_Sense4,43412042610000,Kimehecc,Pride2_Sense4
@@ -118,8 +98,6 @@ START,Tokenize2,Pride2_Sense4,43412061866063,Kimehecc,Pride2_Sense4
 STOP,Tokenize2,Pride2_Sense4,43412064777633,Kimehecc,Pride2_Sense4
 QUEUE,Collect2,Pride2_Sense4,43412065086135,Kimehecc,Pride2_Sense4
 START,Collect2,Pride2_Sense4,43412065176222,Kimehecc,Pride2_Sense4
-QUEUE,Tokenize1,Pride2_Sense5,43412238594774,Kimehecc,Pride2_Sense5
-QUEUE,Tokenize2,Pride2_Sense5,43412238800245,Kimehecc,Pride2_Sense5
 QUEUE,Tokenize1,Pride2_Sense5,43412239233277,Kimehecc,Pride2_Sense5
 START,Tokenize1,Pride2_Sense5,43412239397546,Kimehecc,Pride2_Sense5
 STOP,Tokenize1,Pride2_Sense5,43412240964601,Kimehecc,Pride2_Sense5
@@ -130,8 +108,6 @@ START,Collect1,Pride2_Sense5,43412277789572,Kimehecc,Pride2_Sense5
 STOP,Tokenize2,Pride2_Sense5,43412445456403,Kimehecc,Pride2_Sense5
 QUEUE,Collect2,Pride2_Sense5,43412445657172,Kimehecc,Pride2_Sense5
 START,Collect2,Pride2_Sense5,43412445677845,Kimehecc,Pride2_Sense5
-QUEUE,Tokenize1,Pride2_Sense6,43412709310181,Kimehecc,Pride2_Sense6
-QUEUE,Tokenize2,Pride2_Sense6,43412709530105,Kimehecc,Pride2_Sense6
 QUEUE,Tokenize1,Pride2_Sense6,43412709685909,Kimehecc,Pride2_Sense6
 START,Tokenize1,Pride2_Sense6,43412709710016,Kimehecc,Pride2_Sense6
 STOP,Tokenize1,Pride2_Sense6,43412710877840,Kimehecc,Pride2_Sense6
@@ -176,8 +152,6 @@ STOP,Collect2,Pride2_Sense1,43412966187799,Kimehecc,Pride2_Sense1
 START,ComputeScalar1,Pride1_Sense4,43412987415701,Kimehecc,Pride1_Sense4
 STOP,ComputeScalar1,Pride1_Sense4,43412988068668,Kimehecc,Pride1_Sense4
 QUEUE,ComputeScalar1,Pride1_Sense4,43412988095318,Kimehecc,Pride1_Sense4
-QUEUE,Tokenize1,Pride3_Sense1,43413029204692,Kimehecc,Pride3_Sense1
-QUEUE,Tokenize2,Pride3_Sense1,43413029260322,Kimehecc,Pride3_Sense1
 QUEUE,Tokenize2,Pride3_Sense1,43413029448451,Kimehecc,Pride3_Sense1
 START,Tokenize2,Pride3_Sense1,43413029493908,Kimehecc,Pride3_Sense1
 STOP,Tokenize2,Pride3_Sense1,43413030633294,Kimehecc,Pride3_Sense1
@@ -191,8 +165,6 @@ QUEUE,Collect2,Pride3_Sense1,43413035521238,Kimehecc,Pride3_Sense1
 START,Collect2,Pride3_Sense1,43413035552725,Kimehecc,Pride3_Sense1
 QUEUE,Collect1,Pride3_Sense1,43413036962647,Kimehecc,Pride3_Sense1
 START,Collect1,Pride3_Sense1,43413037036309,Kimehecc,Pride3_Sense1
-QUEUE,Tokenize1,Pride3_Sense2,43413348604900,Kimehecc,Pride3_Sense2
-QUEUE,Tokenize2,Pride3_Sense2,43413348690364,Kimehecc,Pride3_Sense2
 QUEUE,Tokenize2,Pride3_Sense2,43413348917591,Kimehecc,Pride3_Sense2
 START,Tokenize2,Pride3_Sense2,43413349015092,Kimehecc,Pride3_Sense2
 QUEUE,Tokenize1,Pride3_Sense2,43413349506114,Kimehecc,Pride3_Sense2
@@ -203,8 +175,6 @@ START,Collect2,Pride3_Sense2,43413349814019,Kimehecc,Pride3_Sense2
 STOP,Tokenize1,Pride3_Sense2,43413351005342,Kimehecc,Pride3_Sense2
 QUEUE,Collect1,Pride3_Sense2,43413351180609,Kimehecc,Pride3_Sense2
 START,Collect1,Pride3_Sense2,43413351245332,Kimehecc,Pride3_Sense2
-QUEUE,Tokenize1,Pride3_Sense3,43413615225146,Kimehecc,Pride3_Sense3
-QUEUE,Tokenize2,Pride3_Sense3,43413615315810,Kimehecc,Pride3_Sense3
 QUEUE,Tokenize1,Pride3_Sense3,43413617837646,Kimehecc,Pride3_Sense3
 START,Tokenize1,Pride3_Sense3,43413617876612,Kimehecc,Pride3_Sense3
 STOP,Tokenize1,Pride3_Sense3,43413619056677,Kimehecc,Pride3_Sense3
@@ -220,8 +190,6 @@ START,ComputeScalar3,Pride3_Sense1,43413806262785,Kimehecc,Pride3_Sense1
 STOP,ComputeScalar3,Pride3_Sense1,43413806498913,Kimehecc,Pride3_Sense1
 QUEUE,ComputeScalar3,Pride3_Sense1,43413806537718,Kimehecc,Pride3_Sense1
 STOP,Collect2,Pride2_Sense2,43414221065277,Kimehecc,Pride2_Sense2
-QUEUE,Tokenize1,Pride3_Sense4,43414704138100,Kimehecc,Pride3_Sense4
-QUEUE,Tokenize2,Pride3_Sense4,43414704176476,Kimehecc,Pride3_Sense4
 QUEUE,Tokenize1,Pride3_Sense4,43414704316441,Kimehecc,Pride3_Sense4
 START,Tokenize1,Pride3_Sense4,43414704350089,Kimehecc,Pride3_Sense4
 STOP,Tokenize1,Pride3_Sense4,43414705426572,Kimehecc,Pride3_Sense4
@@ -266,8 +234,6 @@ STOP,ComputeScalar2,Pride2_Sense1,43414953598830,Kimehecc,Pride2_Sense1
 QUEUE,ComputeScalar2,Pride2_Sense1,43414953774667,Kimehecc,Pride2_Sense1
 START,ComputeCosine,Pride2_Sense1,43414953962063,Kimehecc,Pride2_Sense1
 STOP,ComputeCosine,Pride2_Sense1,43414953985831,Kimehecc,Pride2_Sense1
-QUEUE,Tokenize1,Pride3_Sense5,43415018835999,Kimehecc,Pride3_Sense5
-QUEUE,Tokenize2,Pride3_Sense5,43415018895031,Kimehecc,Pride3_Sense5
 QUEUE,Tokenize2,Pride3_Sense5,43415019236163,Kimehecc,Pride3_Sense5
 START,Tokenize2,Pride3_Sense5,43415019365207,Kimehecc,Pride3_Sense5
 STOP,Tokenize2,Pride3_Sense5,43415024549648,Kimehecc,Pride3_Sense5
@@ -286,8 +252,6 @@ START,Tokenize1,Pride3_Sense5,43415164478539,Kimehecc,Pride3_Sense5
 STOP,Tokenize1,Pride3_Sense5,43415165755928,Kimehecc,Pride3_Sense5
 QUEUE,Collect1,Pride3_Sense5,43415165927203,Kimehecc,Pride3_Sense5
 START,Collect1,Pride3_Sense5,43415165939532,Kimehecc,Pride3_Sense5
-QUEUE,Tokenize1,Pride3_Sense6,43415344136673,Kimehecc,Pride3_Sense6
-QUEUE,Tokenize2,Pride3_Sense6,43415344170316,Kimehecc,Pride3_Sense6
 QUEUE,Tokenize2,Pride3_Sense6,43415488655151,Kimehecc,Pride3_Sense6
 START,Tokenize2,Pride3_Sense6,43415488885248,Kimehecc,Pride3_Sense6
 STOP,Collect1,Pride2_Sense6,43415503211683,Kimehecc,Pride2_Sense6
@@ -296,8 +260,6 @@ START,Tokenize1,Pride3_Sense6,43415524266458,Kimehecc,Pride3_Sense6
 STOP,Tokenize1,Pride3_Sense6,43415525557815,Kimehecc,Pride3_Sense6
 QUEUE,Collect1,Pride3_Sense6,43415525759452,Kimehecc,Pride3_Sense6
 START,Collect1,Pride3_Sense6,43415525776248,Kimehecc,Pride3_Sense6
-QUEUE,Tokenize1,Pride4_Sense1,43415625326754,Kimehecc,Pride4_Sense1
-QUEUE,Tokenize2,Pride4_Sense1,43415625377930,Kimehecc,Pride4_Sense1
 QUEUE,Tokenize1,Pride4_Sense1,43415626591563,Kimehecc,Pride4_Sense1
 START,Tokenize1,Pride4_Sense1,43415626669804,Kimehecc,Pride4_Sense1
 QUEUE,Tokenize2,Pride4_Sense1,43415629092637,Kimehecc,Pride4_Sense1
@@ -314,8 +276,6 @@ START,Collect2,Pride3_Sense6,43415676240360,Kimehecc,Pride3_Sense6
 START,ComputeScalar1,Pride2_Sense6,43415755235284,Kimehecc,Pride2_Sense6
 STOP,ComputeScalar1,Pride2_Sense6,43415755884310,Kimehecc,Pride2_Sense6
 QUEUE,ComputeScalar1,Pride2_Sense6,43415755992756,Kimehecc,Pride2_Sense6
-QUEUE,Tokenize1,Pride4_Sense2,43415994717259,Kimehecc,Pride4_Sense2
-QUEUE,Tokenize2,Pride4_Sense2,43415994749607,Kimehecc,Pride4_Sense2
 QUEUE,Tokenize1,Pride4_Sense2,43415995757163,Kimehecc,Pride4_Sense2
 START,Tokenize1,Pride4_Sense2,43415995775892,Kimehecc,Pride4_Sense2
 QUEUE,Tokenize2,Pride4_Sense2,43415996598272,Kimehecc,Pride4_Sense2
@@ -334,8 +294,6 @@ STOP,Collect2,Pride3_Sense2,43416227758922,Kimehecc,Pride3_Sense2
 START,ComputeScalar3,Pride3_Sense2,43416283833866,Kimehecc,Pride3_Sense2
 STOP,ComputeScalar3,Pride3_Sense2,43416284100269,Kimehecc,Pride3_Sense2
 QUEUE,ComputeScalar3,Pride3_Sense2,43416284131141,Kimehecc,Pride3_Sense2
-QUEUE,Tokenize1,Pride4_Sense3,43416472199880,Kimehecc,Pride4_Sense3
-QUEUE,Tokenize2,Pride4_Sense3,43416472238441,Kimehecc,Pride4_Sense3
 QUEUE,Tokenize2,Pride4_Sense3,43416472403852,Kimehecc,Pride4_Sense3
 QUEUE,Tokenize1,Pride4_Sense3,43416472404310,Kimehecc,Pride4_Sense3
 START,Tokenize1,Pride4_Sense3,43416472455394,Kimehecc,Pride4_Sense3
@@ -346,8 +304,6 @@ START,Collect2,Pride4_Sense3,43416474379755,Kimehecc,Pride4_Sense3
 STOP,Tokenize1,Pride4_Sense3,43416474937345,Kimehecc,Pride4_Sense3
 QUEUE,Collect1,Pride4_Sense3,43416475109008,Kimehecc,Pride4_Sense3
 START,Collect1,Pride4_Sense3,43416475122322,Kimehecc,Pride4_Sense3
-QUEUE,Tokenize1,Pride4_Sense4,43416620816678,Kimehecc,Pride4_Sense4
-QUEUE,Tokenize2,Pride4_Sense4,43416620867365,Kimehecc,Pride4_Sense4
 QUEUE,Tokenize1,Pride4_Sense4,43416636421374,Kimehecc,Pride4_Sense4
 START,Tokenize1,Pride4_Sense4,43416636468902,Kimehecc,Pride4_Sense4
 STOP,Tokenize1,Pride4_Sense4,43416638894877,Kimehecc,Pride4_Sense4
@@ -358,8 +314,6 @@ QUEUE,Collect2,Pride4_Sense4,43416650045970,Kimehecc,Pride4_Sense4
 START,Collect2,Pride4_Sense4,43416653609360,Kimehecc,Pride4_Sense4
 QUEUE,Collect1,Pride4_Sense4,43416639023602,Kimehecc,Pride4_Sense4
 START,Collect1,Pride4_Sense4,43416714420252,Kimehecc,Pride4_Sense4
-QUEUE,Tokenize1,Pride4_Sense5,43417152094750,Kimehecc,Pride4_Sense5
-QUEUE,Tokenize2,Pride4_Sense5,43417152142733,Kimehecc,Pride4_Sense5
 QUEUE,Tokenize1,Pride4_Sense5,43417152366441,Kimehecc,Pride4_Sense5
 START,Tokenize1,Pride4_Sense5,43417152379196,Kimehecc,Pride4_Sense5
 QUEUE,Tokenize2,Pride4_Sense5,43417154806901,Kimehecc,Pride4_Sense5
@@ -370,8 +324,6 @@ START,Collect1,Pride4_Sense5,43417156114990,Kimehecc,Pride4_Sense5
 STOP,Tokenize2,Pride4_Sense5,43417167890590,Kimehecc,Pride4_Sense5
 QUEUE,Collect2,Pride4_Sense5,43417168224771,Kimehecc,Pride4_Sense5
 START,Collect2,Pride4_Sense5,43417168238656,Kimehecc,Pride4_Sense5
-QUEUE,Tokenize1,Pride4_Sense6,43417621804011,Kimehecc,Pride4_Sense6
-QUEUE,Tokenize2,Pride4_Sense6,43417621836529,Kimehecc,Pride4_Sense6
 QUEUE,Tokenize1,Pride4_Sense6,43417621958883,Kimehecc,Pride4_Sense6
 START,Tokenize1,Pride4_Sense6,43417621969343,Kimehecc,Pride4_Sense6
 QUEUE,Tokenize2,Pride4_Sense6,43417625812279,Kimehecc,Pride4_Sense6
@@ -382,8 +334,6 @@ START,Collect1,Pride4_Sense6,43417633531517,Kimehecc,Pride4_Sense6
 STOP,Tokenize2,Pride4_Sense6,43417759234061,Kimehecc,Pride4_Sense6
 QUEUE,Collect2,Pride4_Sense6,43417759469151,Kimehecc,Pride4_Sense6
 START,Collect2,Pride4_Sense6,43417759507412,Kimehecc,Pride4_Sense6
-QUEUE,Tokenize1,Pride5_Sense2,43419277728345,Kimehecc,Pride5_Sense2
-QUEUE,Tokenize2,Pride5_Sense2,43419277768765,Kimehecc,Pride5_Sense2
 QUEUE,Tokenize1,Pride5_Sense2,43419278707540,Kimehecc,Pride5_Sense2
 START,Tokenize1,Pride5_Sense2,43419278740200,Kimehecc,Pride5_Sense2
 QUEUE,Tokenize2,Pride5_Sense2,43419282593445,Kimehecc,Pride5_Sense2
@@ -394,8 +344,6 @@ QUEUE,Collect2,Pride5_Sense2,43419283431784,Kimehecc,Pride5_Sense2
 START,Collect2,Pride5_Sense2,43419283551364,Kimehecc,Pride5_Sense2
 QUEUE,Collect1,Pride5_Sense2,43419300269116,Kimehecc,Pride5_Sense2
 START,Collect1,Pride5_Sense2,43419300318013,Kimehecc,Pride5_Sense2
-QUEUE,Tokenize1,Pride5_Sense1,43419392965020,Kimehecc,Pride5_Sense1
-QUEUE,Tokenize2,Pride5_Sense1,43419393008988,Kimehecc,Pride5_Sense1
 QUEUE,Tokenize1,Pride5_Sense1,43419393132899,Kimehecc,Pride5_Sense1
 START,Tokenize1,Pride5_Sense1,43419393145038,Kimehecc,Pride5_Sense1
 QUEUE,Tokenize2,Pride5_Sense1,43419393299067,Kimehecc,Pride5_Sense1
@@ -406,8 +354,6 @@ START,Collect2,Pride5_Sense1,43419393768376,Kimehecc,Pride5_Sense1
 STOP,Tokenize1,Pride5_Sense1,43419446055490,Kimehecc,Pride5_Sense1
 QUEUE,Collect1,Pride5_Sense1,43419481215910,Kimehecc,Pride5_Sense1
 START,Collect1,Pride5_Sense1,43419481285730,Kimehecc,Pride5_Sense1
-QUEUE,Tokenize1,Pride5_Sense3,43419915406489,Kimehecc,Pride5_Sense3
-QUEUE,Tokenize2,Pride5_Sense3,43419915478569,Kimehecc,Pride5_Sense3
 QUEUE,Tokenize1,Pride5_Sense3,43419915574292,Kimehecc,Pride5_Sense3
 START,Tokenize1,Pride5_Sense3,43419915584842,Kimehecc,Pride5_Sense3
 QUEUE,Tokenize2,Pride5_Sense3,43419915774328,Kimehecc,Pride5_Sense3
@@ -418,8 +364,6 @@ START,Collect2,Pride5_Sense3,43419933520688,Kimehecc,Pride5_Sense3
 STOP,Tokenize1,Pride5_Sense3,43419937355418,Kimehecc,Pride5_Sense3
 QUEUE,Collect1,Pride5_Sense3,43419937532471,Kimehecc,Pride5_Sense3
 START,Collect1,Pride5_Sense3,43419937542359,Kimehecc,Pride5_Sense3
-QUEUE,Tokenize1,Pride5_Sense4,43420541758968,Kimehecc,Pride5_Sense4
-QUEUE,Tokenize2,Pride5_Sense4,43420541784537,Kimehecc,Pride5_Sense4
 QUEUE,Tokenize1,Pride5_Sense4,43420542405300,Kimehecc,Pride5_Sense4
 START,Tokenize1,Pride5_Sense4,43420542418757,Kimehecc,Pride5_Sense4
 STOP,Tokenize1,Pride5_Sense4,43420547989047,Kimehecc,Pride5_Sense4
@@ -438,8 +382,6 @@ STOP,Collect2,Pride5_Sense1,43420866960929,Kimehecc,Pride5_Sense1
 START,ComputeScalar3,Pride5_Sense1,43420867269497,Kimehecc,Pride5_Sense1
 STOP,ComputeScalar3,Pride5_Sense1,43420867378020,Kimehecc,Pride5_Sense1
 QUEUE,ComputeScalar3,Pride5_Sense1,43420867383321,Kimehecc,Pride5_Sense1
-QUEUE,Tokenize1,Pride5_Sense5,43421022333193,Kimehecc,Pride5_Sense5
-QUEUE,Tokenize2,Pride5_Sense5,43421022363107,Kimehecc,Pride5_Sense5
 QUEUE,Tokenize1,Pride5_Sense5,43421022514707,Kimehecc,Pride5_Sense5
 START,Tokenize1,Pride5_Sense5,43421022522367,Kimehecc,Pride5_Sense5
 QUEUE,Tokenize2,Pride5_Sense5,43421028257176,Kimehecc,Pride5_Sense5
@@ -459,8 +401,6 @@ STOP,ComputeScalar2,Pride2_Sense3,43421902496201,Kimehecc,Pride2_Sense3
 QUEUE,ComputeScalar2,Pride2_Sense3,43421902545048,Kimehecc,Pride2_Sense3
 START,ComputeCosine,Pride2_Sense3,43421902640915,Kimehecc,Pride2_Sense3
 STOP,ComputeCosine,Pride2_Sense3,43421902684211,Kimehecc,Pride2_Sense3
-QUEUE,Tokenize1,Pride5_Sense6,43422392783750,Kimehecc,Pride5_Sense6
-QUEUE,Tokenize2,Pride5_Sense6,43422392831250,Kimehecc,Pride5_Sense6
 QUEUE,Tokenize1,Pride5_Sense6,43422392940506,Kimehecc,Pride5_Sense6
 START,Tokenize1,Pride5_Sense6,43422392951895,Kimehecc,Pride5_Sense6
 QUEUE,Tokenize2,Pride5_Sense6,43422393598845,Kimehecc,Pride5_Sense6
@@ -480,8 +420,6 @@ STOP,ComputeScalar3,Pride1_Sense3,43423612799642,Kimehecc,Pride1_Sense3
 QUEUE,ComputeScalar3,Pride1_Sense3,43423612817781,Kimehecc,Pride1_Sense3
 START,ComputeCosine,Pride1_Sense3,43423612918516,Kimehecc,Pride1_Sense3
 STOP,ComputeCosine,Pride1_Sense3,43423612959491,Kimehecc,Pride1_Sense3
-QUEUE,Tokenize1,Pride6_Sense1,43423703363854,Kimehecc,Pride6_Sense1
-QUEUE,Tokenize2,Pride6_Sense1,43423703391221,Kimehecc,Pride6_Sense1
 QUEUE,Tokenize1,Pride6_Sense1,43423703475947,Kimehecc,Pride6_Sense1
 START,Tokenize1,Pride6_Sense1,43423703483700,Kimehecc,Pride6_Sense1
 QUEUE,Tokenize2,Pride6_Sense1,43423703769210,Kimehecc,Pride6_Sense1
@@ -492,8 +430,6 @@ START,Collect2,Pride6_Sense1,43423704455434,Kimehecc,Pride6_Sense1
 STOP,Tokenize1,Pride6_Sense1,43423837126294,Kimehecc,Pride6_Sense1
 QUEUE,Collect1,Pride6_Sense1,43423935710718,Kimehecc,Pride6_Sense1
 START,Collect1,Pride6_Sense1,43423935766298,Kimehecc,Pride6_Sense1
-QUEUE,Tokenize1,Pride6_Sense2,43424208975741,Kimehecc,Pride6_Sense2
-QUEUE,Tokenize2,Pride6_Sense2,43424209023264,Kimehecc,Pride6_Sense2
 QUEUE,Tokenize2,Pride6_Sense2,43424209105824,Kimehecc,Pride6_Sense2
 START,Tokenize2,Pride6_Sense2,43424209114137,Kimehecc,Pride6_Sense2
 STOP,Tokenize2,Pride6_Sense2,43424209826443,Kimehecc,Pride6_Sense2
@@ -508,8 +444,6 @@ STOP,Collect2,Pride6_Sense1,43424710360924,Kimehecc,Pride6_Sense1
 START,ComputeScalar3,Pride6_Sense1,43424712122626,Kimehecc,Pride6_Sense1
 STOP,ComputeScalar3,Pride6_Sense1,43424712291700,Kimehecc,Pride6_Sense1
 QUEUE,ComputeScalar3,Pride6_Sense1,43424712322437,Kimehecc,Pride6_Sense1
-QUEUE,Tokenize1,Pride6_Sense3,43424941966734,Kimehecc,Pride6_Sense3
-QUEUE,Tokenize2,Pride6_Sense3,43424942038774,Kimehecc,Pride6_Sense3
 QUEUE,Tokenize1,Pride6_Sense3,43424942168084,Kimehecc,Pride6_Sense3
 START,Tokenize1,Pride6_Sense3,43424942180468,Kimehecc,Pride6_Sense3
 QUEUE,Tokenize2,Pride6_Sense3,43425019306985,Kimehecc,Pride6_Sense3
@@ -521,8 +455,6 @@ STOP,Tokenize1,Pride6_Sense3,43425252576450,Kimehecc,Pride6_Sense3
 QUEUE,Collect1,Pride6_Sense3,43425308364595,Kimehecc,Pride6_Sense3
 START,Collect1,Pride6_Sense3,43425308403266,Kimehecc,Pride6_Sense3
 STOP,Collect2,Pride5_Sense2,43425395567220,Kimehecc,Pride5_Sense2
-QUEUE,Tokenize1,Pride6_Sense4,43425583351389,Kimehecc,Pride6_Sense4
-QUEUE,Tokenize2,Pride6_Sense4,43425583388941,Kimehecc,Pride6_Sense4
 START,ComputeScalar3,Pride5_Sense2,43425592271122,Kimehecc,Pride5_Sense2
 STOP,ComputeScalar3,Pride5_Sense2,43425592471514,Kimehecc,Pride5_Sense2
 QUEUE,ComputeScalar3,Pride5_Sense2,43425592496389,Kimehecc,Pride5_Sense2
@@ -536,10 +468,6 @@ QUEUE,Collect2,Pride6_Sense4,43425634270006,Kimehecc,Pride6_Sense4
 START,Collect2,Pride6_Sense4,43425634286687,Kimehecc,Pride6_Sense4
 QUEUE,Collect1,Pride6_Sense4,43425776706892,Kimehecc,Pride6_Sense4
 START,Collect1,Pride6_Sense4,43425776776051,Kimehecc,Pride6_Sense4
-QUEUE,Tokenize1,Pride6_Sense6,43426515524199,Kimehecc,Pride6_Sense6
-QUEUE,Tokenize2,Pride6_Sense6,43426515543199,Kimehecc,Pride6_Sense6
-QUEUE,Tokenize1,Pride6_Sense5,43426516366522,Kimehecc,Pride6_Sense5
-QUEUE,Tokenize2,Pride6_Sense5,43426516409518,Kimehecc,Pride6_Sense5
 QUEUE,Tokenize1,Pride6_Sense5,43426517498495,Kimehecc,Pride6_Sense5
 START,Tokenize1,Pride6_Sense5,43426517519917,Kimehecc,Pride6_Sense5
 QUEUE,Tokenize2,Pride6_Sense6,43426518149505,Kimehecc,Pride6_Sense6
