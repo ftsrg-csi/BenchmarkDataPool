@@ -14,11 +14,11 @@ STOP,Tokenize1,Pride1,491432927780,BlaskoG,Pride1_Sense1
 QUEUE,ComputeScalar1,Pride1,,BlaskoG,Pride1_Sense1
 QUEUE,ComputeScalar2,Sense1,,BlaskoG,Pride1_Sense1
 START,ComputeScalar3,Pride1_Sense1,491736999206,BlaskoG,Pride1_Sense1
-STOP,ComputeScalar2,Sense1,491737296756,BlaskoG,Pride1_Sense1
+START,ComputeScalar2,Sense1,491737296756,BlaskoG,Pride1_Sense1
 QUEUE,ComputeScalar3,Pride1_Sense1,,BlaskoG,Pride1_Sense1
 START,ComputeScalar1,Pride1,491741196170,BlaskoG,Pride1_Sense1
 STOP,ComputeScalar3,Pride1_Sense1,491745903269,BlaskoG,Pride1_Sense1
-START,ComputeScalar1,Pride1,491746262967,BlaskoG,Pride1_Sense1
+STOP,ComputeScalar1,Pride1,491746262967,BlaskoG,Pride1_Sense1
 STOP,ComputeScalar2,Sense1,491747630222,BlaskoG,Pride1_Sense1
 QUEUE,ComputeCosine,Pride1_Sense1,,BlaskoG,Pride1_Sense1
 START,ComputeCosine,Pride1_Sense1,492041622644,BlaskoG,Pride1_Sense1
@@ -40,7 +40,7 @@ QUEUE,ComputeScalar2,Sense2,,BlaskoG,Pride1_Sense2
 START,ComputeScalar1,Pride1,,BlaskoG,Pride1_Sense2
 STOP,ComputeScalar1,Pride1,849641187918,BlaskoG,Pride1_Sense2
 QUEUE,ComputeScalar3,Pride1_Sense2,849642399205,BlaskoG,Pride1_Sense2
-START,ComputeScalar2,Pride1_Sense2,849642641530,BlaskoG,Pride1_Sense2
+START,ComputeScalar2,Sense2,849642641530,BlaskoG,Pride1_Sense2
 STOP,ComputeScalar2,Sense2,849647352650,BlaskoG,Pride1_Sense2
 START,ComputeScalar3,Pride1_Sense2,849652233519,BlaskoG,Pride1_Sense2
 STOP,ComputeScalar3,Pride1_Sense2,849652689598,BlaskoG,Pride1_Sense2
@@ -301,9 +301,9 @@ STOP,Collect1,Pride3,6315412159338,BlaskoG,Pride3_Sense1
 STOP,Tokenize1,Pride3,6315414958764,BlaskoG,Pride3_Sense1
 QUEUE,ComputeScalar1,Pride3,,BlaskoG,Pride3_Sense1
 QUEUE,ComputeScalar2,Sense1,,BlaskoG,Pride3_Sense1
-QUEUE,ComputeScalar3,Pride3,,BlaskoG,Pride3_Sense1
-START,ComputeScalar2,Pride3,6315453325606,BlaskoG,Pride3_Sense1
-START,ComputeScalar1,Pride3_Sense1,6315453723844,BlaskoG,Pride3_Sense1
+QUEUE,ComputeScalar3,Pride3_Sense1,,BlaskoG,Pride3_Sense1
+START,ComputeScalar2,Sense1,6315453325606,BlaskoG,Pride3_Sense1
+START,ComputeScalar1,Pride3,6315453723844,BlaskoG,Pride3_Sense1
 STOP,ComputeScalar2,Sense1,6315456776020,BlaskoG,Pride3_Sense1
 STOP,ComputeScalar1,Sense1,6315457768467,BlaskoG,Pride3_Sense1
 START,ComputeScalar3,Pride3_Sense1,6315458321272,BlaskoG,Pride3_Sense1
